@@ -13,7 +13,8 @@ theme:
       - toc.integrate
       - content.code.annotate
 nav:
-    - '前言': 'index.md'
+    - '前言': '0-前言.md'
+    - '机器学习简介': '1-机器学习简介.md'
     
 markdown_extensions:
   - pymdownx.caret
