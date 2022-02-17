@@ -3,8 +3,8 @@ site_url: http://medical-imaging.hackerphysics.com
 
 theme:
     name: material
-    logo: images/medical-imaging.png
-    favicon: images/medical-imaging.png
+    logo: images/medical-imaging-2.png
+    favicon: images/medical-imaging-2.png
     features:
       - navigation.expand
       - navigation.top
